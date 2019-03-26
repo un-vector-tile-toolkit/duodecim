@@ -15,5 +15,5 @@ Divisions of the globe in 12; improved version of decimundus
 | 7   | 512                   | 1.9GB                      |
 | 8   | 256                   | 4.8GB                      |
 | 9   | 256                   | 6.0GB                      |
-| 10  | 1024                  | TODO                       |
-| 11  | 1024                  | TODO                       |
+| 10  | 1024                  | 512MB                      |
+| 11  | 1024                  | 29MB                       |
